@@ -1,4 +1,4 @@
-package com.maybank.login_spring_security.web;
+package com.maybank.login_spring_security.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
